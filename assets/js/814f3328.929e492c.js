@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkendfield_doc=globalThis.webpackChunkendfield_doc||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ChangeLog","permalink":"/endfieldDoc/blog/changelog","unlisted":false,"date":"2026-03-12T06:49:41.000Z"}]}')}}]);

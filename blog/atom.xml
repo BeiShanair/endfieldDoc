@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beishanair.github.io/endfieldDoc/blog"/>
     <subtitle>Endfield Industry Documentation Blog</subtitle>
-    <icon>https://beishanair.github.io/endfieldDoc/img/icon.png</icon>
+    <icon>https://beishanair.github.io/endfieldDoc/endfieldDoc/img/icon.png</icon>
     <entry>
         <title type="html"><![CDATA[ChangeLog]]></title>
         <id>https://beishanair.github.io/endfieldDoc/blog/changelog</id>
