@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-const isGitHubPages = process.env.DEPLOY_TARGET === 'gh-pages';
+const isNetlify = process.env.NETLIFY === 'true';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -25,7 +25,7 @@ const config = {
   url: 'https://beishanair.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: isGitHubPages ? '/endfieldDoc/' : '/',
+  baseUrl: isNetlify ? '/' : '/endfieldDoc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
