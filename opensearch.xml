@@ -4,8 +4,8 @@
   <ShortName>Endfield Industry Documentation</ShortName>
   <Description>Search Endfield Industry Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://beishanair.github.io/endfieldDoc/img/icon.png</Image>
-  <Url type="text/html" method="get" template="https://beishanair.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://beishanair.github.io/opensearch.xml" />
-  <moz:SearchForm>https://beishanair.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://beishanair.github.io/endfieldDoc/endfieldDoc/img/icon.png</Image>
+  <Url type="text/html" method="get" template="https://beishanair.github.io/endfieldDoc/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://beishanair.github.io/endfieldDoc/opensearch.xml" />
+  <moz:SearchForm>https://beishanair.github.io/endfieldDoc/</moz:SearchForm>
 </OpenSearchDescription>

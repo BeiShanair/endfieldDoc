@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Endfield Industry Documentation Blog</title>
-        <link>https://beishanair.github.io/blog</link>
+        <link>https://beishanair.github.io/endfieldDoc/blog</link>
         <description>Endfield Industry Documentation Blog</description>
         <lastBuildDate>Sat, 07 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,31 +10,31 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[v0.1.8 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.8</link>
-            <guid>https://beishanair.github.io/blog/v0.1.8</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.8</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.8</guid>
             <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.8 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.8 更新日志</p>
 <p>Endfield Industry Mod v0.1.8 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/blog/v0.1.8#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-06">2026-03-06<a href="https://beishanair.github.io/blog/v0.1.8#2026-03-06" class="hash-link" aria-label="2026-03-06的直接链接" title="2026-03-06的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.8#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-06">2026-03-06<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.8#2026-03-06" class="hash-link" aria-label="2026-03-06的直接链接" title="2026-03-06的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修改工业设备放置逻辑，如果空间不足，则不会放置</li>
 <li class="">Modified the logic of industrial equipment placement. If there is not enough space, it will not be placed</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-03">2026-03-03<a href="https://beishanair.github.io/blog/v0.1.8#2026-03-03" class="hash-link" aria-label="2026-03-03的直接链接" title="2026-03-03的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-03">2026-03-03<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.8#2026-03-03" class="hash-link" aria-label="2026-03-03的直接链接" title="2026-03-03的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">终末地相关的矿石将采用结构生成，不再直接生成在世界中</li>
 <li class="">The Endfield's ore stones will be generated using structure generation, rather than being generated in the world</li>
 <li class="">修复<code>传送带</code>在服务端中放置异常且报错的问题</li>
 <li class="">Fixed the exception and error when placing <code>Belt</code> on the server</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-01">2026-03-01<a href="https://beishanair.github.io/blog/v0.1.8#2026-03-01" class="hash-link" aria-label="2026-03-01的直接链接" title="2026-03-01的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-01">2026-03-01<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.8#2026-03-01" class="hash-link" aria-label="2026-03-01的直接链接" title="2026-03-01的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">添加了<code>物流桥</code>、<code>分流器</code>和<code>汇流器</code></li>
 <li class="">Added <code>Belt Bridge</code>, <code>Splitter</code> and <code>Converger</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-28">2026-02-28<a href="https://beishanair.github.io/blog/v0.1.8#2026-02-28" class="hash-link" aria-label="2026-02-28的直接链接" title="2026-02-28的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-28">2026-02-28<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.8#2026-02-28" class="hash-link" aria-label="2026-02-28的直接链接" title="2026-02-28的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修改了传送带的逻辑，现在工业设备不会再向推送方向不一致的传送带推送东西了</li>
 <li class="">e.g. 比如设备向南推送东西，但传送带是东西向的，那么设备就不会向它推送东西</li>
@@ -45,29 +45,29 @@
         </item>
         <item>
             <title><![CDATA[v0.1.7 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.7</link>
-            <guid>https://beishanair.github.io/blog/v0.1.7</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.7</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.7</guid>
             <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.7 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.7 更新日志</p>
 <p>Endfield Industry Mod v0.1.7 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/blog/v0.1.7#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-25">2026-02-25<a href="https://beishanair.github.io/blog/v0.1.7#2026-02-25" class="hash-link" aria-label="2026-02-25的直接链接" title="2026-02-25的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.7#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-25">2026-02-25<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.7#2026-02-25" class="hash-link" aria-label="2026-02-25的直接链接" title="2026-02-25的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修改传送带的放置逻辑，优化并列摆放</li>
 <li class="">Modified the placement logic of conveyor belts to optimize side-by-side placement</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-23">2026-02-23<a href="https://beishanair.github.io/blog/v0.1.7#2026-02-23" class="hash-link" aria-label="2026-02-23的直接链接" title="2026-02-23的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-23">2026-02-23<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.7#2026-02-23" class="hash-link" aria-label="2026-02-23的直接链接" title="2026-02-23的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">完善传送带</li>
 <li class="">Improved conveyor belts</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-21">2026-02-21<a href="https://beishanair.github.io/blog/v0.1.7#2026-02-21" class="hash-link" aria-label="2026-02-21的直接链接" title="2026-02-21的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-21">2026-02-21<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.7#2026-02-21" class="hash-link" aria-label="2026-02-21的直接链接" title="2026-02-21的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">仿照原版的铁轨，制作了可以直角转弯的传送带</li>
 <li class="">Created conveyor belts that can turn at right angles, similar to vanilla rails</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-20">2026-02-20<a href="https://beishanair.github.io/blog/v0.1.7#2026-02-20" class="hash-link" aria-label="2026-02-20的直接链接" title="2026-02-20的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-20">2026-02-20<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.7#2026-02-20" class="hash-link" aria-label="2026-02-20的直接链接" title="2026-02-20的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修复<code>便携源石矿机</code>相关逻辑</li>
 <li class="">Fixed logic related to <code>Portable Originium Rig</code></li>
@@ -76,108 +76,108 @@
         </item>
         <item>
             <title><![CDATA[v0.1.6 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.6</link>
-            <guid>https://beishanair.github.io/blog/v0.1.6</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.6</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.6</guid>
             <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.6 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.6 更新日志</p>
 <p>Endfield Industry Mod v0.1.6 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/blog/v0.1.6#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-18">2026-02-18<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-18" class="hash-link" aria-label="2026-02-18的直接链接" title="2026-02-18的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-18">2026-02-18<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-18" class="hash-link" aria-label="2026-02-18的直接链接" title="2026-02-18的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化各个矿机，提取基类</li>
 <li class="">Optimized various mining rigs and extracted base classes</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-17">2026-02-17<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-17" class="hash-link" aria-label="2026-02-17的直接链接" title="2026-02-17的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-17">2026-02-17<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-17" class="hash-link" aria-label="2026-02-17的直接链接" title="2026-02-17的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">供电桩、中继器现在可以实现断点重连，即当它连接的前一个节点被移除了，那么它会自己重新寻找在连接范围内且最近的节点进行连接</li>
 <li class="">Electric Pylons and Relay Towers can now implement breakpoint reconnection. If the previous node they are connected to is removed, they will automatically search for the nearest node within the connection range to connect to.</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-16">2026-02-16<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-16" class="hash-link" aria-label="2026-02-16的直接链接" title="2026-02-16的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-16">2026-02-16<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-16" class="hash-link" aria-label="2026-02-16的直接链接" title="2026-02-16的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化工业设备，现在用电工业设备可以储备<code>10000 EFU(Endfield Units)</code>的电力，增加一定的容错，避免电力不足导致的设备停机</li>
 <li class="">Optimized industrial equipment. Now, powered industrial equipment can store <code>10000 EFU (Endfield Units)</code> of electricity, providing some fault tolerance to prevent equipment shutdown due to insufficient power</li>
 <li class="">工业设备如果电力储备充足且不处于工作状态时，不会再消耗电力</li>
 <li class="">When industrial equipment has sufficient power reserves and is not in working state, it will no longer consume electricity</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-11">2026-02-11<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-11" class="hash-link" aria-label="2026-02-11的直接链接" title="2026-02-11的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-11">2026-02-11<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-11" class="hash-link" aria-label="2026-02-11的直接链接" title="2026-02-11的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">完成各炮台的白模搭建，但尚未加入模组中</li>
 <li class="">Completed the white model construction of each gun tower, but has not yet been added to the mod</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-08">2026-02-08<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-08" class="hash-link" aria-label="2026-02-08的直接链接" title="2026-02-08的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-08">2026-02-08<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-08" class="hash-link" aria-label="2026-02-08的直接链接" title="2026-02-08的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">新增<code>全局电网节点管理器</code>，用于处理供电桩、中继器之间的自动连接</li>
 <li class="">Added <code>Global Power Network Node Manager</code> to handle automatic connections between Electric Pylons and Relay Towers</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-07">2026-02-07<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-07" class="hash-link" aria-label="2026-02-07的直接链接" title="2026-02-07的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-07">2026-02-07<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-07" class="hash-link" aria-label="2026-02-07的直接链接" title="2026-02-07的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试验证炮台，优化转向效果</li>
 <li class="">Tested and verified the gun tower, optimized the turning effect</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-06">2026-02-06<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-06" class="hash-link" aria-label="2026-02-06的直接链接" title="2026-02-06的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-06">2026-02-06<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-06" class="hash-link" aria-label="2026-02-06的直接链接" title="2026-02-06的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>放置预览</code>试验阶段完成，开始正式编写</li>
 <li class="">The <code>placement preview</code> testing phase is complete, and formal writing begins</li>
 <li class="">完成各<code>GUI</code>的简化，基类提取完成</li>
 <li class="">Completed simplification of various <code>GUIs</code>, base class extraction completed</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-05">2026-02-05<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-05" class="hash-link" aria-label="2026-02-05的直接链接" title="2026-02-05的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-05">2026-02-05<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-05" class="hash-link" aria-label="2026-02-05的直接链接" title="2026-02-05的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">开始优化各<code>GUI</code>，并提取基类</li>
 <li class="">Started optimizing various <code>GUIs</code> and extracting base classes</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-04">2026-02-04<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-04" class="hash-link" aria-label="2026-02-04的直接链接" title="2026-02-04的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-04">2026-02-04<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-04" class="hash-link" aria-label="2026-02-04的直接链接" title="2026-02-04的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">完成<code>工业设备</code>方块实体类的优化，基类提取完成</li>
 <li class="">Completed optimization of <code>industrial equipment</code> block entity classes, base class extraction completed</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-03">2026-02-03<a href="https://beishanair.github.io/blog/v0.1.6#2026-02-03" class="hash-link" aria-label="2026-02-03的直接链接" title="2026-02-03的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-02-03">2026-02-03<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-02-03" class="hash-link" aria-label="2026-02-03的直接链接" title="2026-02-03的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化各<code>GUI</code>，降低渲染负载</li>
 <li class="">Optimized various <code>GUIs</code> to reduce rendering load</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-01-12">2026-01-12<a href="https://beishanair.github.io/blog/v0.1.6#2026-01-12" class="hash-link" aria-label="2026-01-12的直接链接" title="2026-01-12的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-01-12">2026-01-12<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-01-12" class="hash-link" aria-label="2026-01-12的直接链接" title="2026-01-12的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">开始整理重构现有的<code>工业设备相关类</code>，提取基类，减少重复代码</li>
 <li class="">Started organizing and refactoring existing <code>industrial equipment-related classes</code>, extracting base classes to reduce code duplication</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-01-11">2026-01-11<a href="https://beishanair.github.io/blog/v0.1.6#2026-01-11" class="hash-link" aria-label="2026-01-11的直接链接" title="2026-01-11的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-01-11">2026-01-11<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2026-01-11" class="hash-link" aria-label="2026-01-11的直接链接" title="2026-01-11的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">尝试使用<code>Transfer API</code>来处理各个方块实体中的物品传输逻辑，不再直接使用原版的类</li>
 <li class="">Attempted to use <code>Transfer API</code> to handle item transfer logic in various block entities, no longer directly using vanilla classes</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-24">2025-12-24<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-24" class="hash-link" aria-label="2025-12-24的直接链接" title="2025-12-24的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-24">2025-12-24<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-24" class="hash-link" aria-label="2025-12-24的直接链接" title="2025-12-24的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">整合并测试之前的管道</li>
 <li class="">Integrated and tested previous pipelines</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-16">2025-12-16<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-16" class="hash-link" aria-label="2025-12-16的直接链接" title="2025-12-16的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-16">2025-12-16<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-16" class="hash-link" aria-label="2025-12-16的直接链接" title="2025-12-16的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">初步试验管道</li>
 <li class="">Initial testing of pipelines</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-15">2025-12-15<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-15" class="hash-link" aria-label="2025-12-15的直接链接" title="2025-12-15的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-15">2025-12-15<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-15" class="hash-link" aria-label="2025-12-15的直接链接" title="2025-12-15的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">初步试验传送带</li>
 <li class="">Initial testing of conveyor belts</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-14">2025-12-14<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-14" class="hash-link" aria-label="2025-12-14的直接链接" title="2025-12-14的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-14">2025-12-14<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-14" class="hash-link" aria-label="2025-12-14的直接链接" title="2025-12-14的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">继续重构并优化电网，工业设备将直接接入全局电网，由全局电网负责所有电力运算逻辑</li>
 <li class="">Continued to refactor and optimize the power grid. Industrial equipment will be directly connected to the global power grid, which is responsible for all power calculation logic.</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-12">2025-12-12<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-12" class="hash-link" aria-label="2025-12-12的直接链接" title="2025-12-12的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-12">2025-12-12<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-12" class="hash-link" aria-label="2025-12-12的直接链接" title="2025-12-12的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">所有测试版停止更新，发布模组未来开发计划，参见<a href="https://beishanair.github.io/BessonNote/2025/10/01/endfield/" target="_blank" rel="noopener noreferrer" class="">未来计划</a></li>
 <li class="">All beta versions have stopped updating. The future development plan of the mod is released. See <a href="https://beishanair.github.io/BessonNote/2025/10/01/endfield/" target="_blank" rel="noopener noreferrer" class="">Future Plans</a></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-10">2025-12-10<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-10" class="hash-link" aria-label="2025-12-10的直接链接" title="2025-12-10的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-10">2025-12-10<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-10" class="hash-link" aria-label="2025-12-10的直接链接" title="2025-12-10的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">重构电网，新增一个物品用于模拟电力运输</li>
 <li class="">Refactored the power grid and added a new item to simulate power transmission</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-08">2025-12-08<a href="https://beishanair.github.io/blog/v0.1.6#2025-12-08" class="hash-link" aria-label="2025-12-08的直接链接" title="2025-12-08的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-12-08">2025-12-08<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.6#2025-12-08" class="hash-link" aria-label="2025-12-08的直接链接" title="2025-12-08的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">继续优化供电桩逻辑</li>
 <li class="">Further optimized the logic of Electric Pylon</li>
@@ -186,63 +186,63 @@
         </item>
         <item>
             <title><![CDATA[v0.1.5.1 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.5.1</link>
-            <guid>https://beishanair.github.io/blog/v0.1.5.1</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.5.1</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.5.1</guid>
             <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.5.1 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.5.1 更新日志</p>
 <p>Endfield Industry Mod v0.1.5.1 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="neoforge-更新日志--neoforge-changelog">NeoForge 更新日志 / NeoForge Changelog<a href="https://beishanair.github.io/blog/v0.1.5.1#neoforge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--neoforge-changelog" class="hash-link" aria-label="NeoForge 更新日志 / NeoForge Changelog的直接链接" title="NeoForge 更新日志 / NeoForge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-30">2025-11-30<a href="https://beishanair.github.io/blog/v0.1.5.1#2025-11-30" class="hash-link" aria-label="2025-11-30的直接链接" title="2025-11-30的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="neoforge-更新日志--neoforge-changelog">NeoForge 更新日志 / NeoForge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5.1#neoforge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--neoforge-changelog" class="hash-link" aria-label="NeoForge 更新日志 / NeoForge Changelog的直接链接" title="NeoForge 更新日志 / NeoForge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-30">2025-11-30<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5.1#2025-11-30" class="hash-link" aria-label="2025-11-30的直接链接" title="2025-11-30的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修复矿石的战利品表</li>
 <li class="">Fixed ore loot tables</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/blog/v0.1.5.1#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5.1#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
 <p>None</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/blog/v0.1.5.1#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5.1#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
 <p>None</p>]]></content:encoded>
             <category>ChangeLog</category>
         </item>
         <item>
             <title><![CDATA[v0.1.5 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.5</link>
-            <guid>https://beishanair.github.io/blog/v0.1.5</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.5</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.5</guid>
             <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.5 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.5 更新日志</p>
 <p>Endfield Industry Mod v0.1.5 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="neoforge-更新日志--neoforge-changelog">NeoForge 更新日志 / NeoForge Changelog<a href="https://beishanair.github.io/blog/v0.1.5#neoforge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--neoforge-changelog" class="hash-link" aria-label="NeoForge 更新日志 / NeoForge Changelog的直接链接" title="NeoForge 更新日志 / NeoForge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-23">2025-11-23<a href="https://beishanair.github.io/blog/v0.1.5#2025-11-23" class="hash-link" aria-label="2025-11-23的直接链接" title="2025-11-23的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="neoforge-更新日志--neoforge-changelog">NeoForge 更新日志 / NeoForge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#neoforge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--neoforge-changelog" class="hash-link" aria-label="NeoForge 更新日志 / NeoForge Changelog的直接链接" title="NeoForge 更新日志 / NeoForge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-23">2025-11-23<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#2025-11-23" class="hash-link" aria-label="2025-11-23的直接链接" title="2025-11-23的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">基本内容移植完成</li>
 <li class="">Basic content porting completed</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-15">2025-11-15<a href="https://beishanair.github.io/blog/v0.1.5#2025-11-15" class="hash-link" aria-label="2025-11-15的直接链接" title="2025-11-15的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-15">2025-11-15<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#2025-11-15" class="hash-link" aria-label="2025-11-15的直接链接" title="2025-11-15的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>NeoForge</code>版移植工作开始</li>
 <li class="">Start porting to <code>NeoForge</code> version</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/blog/v0.1.5#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-23-1">2025-11-23<a href="https://beishanair.github.io/blog/v0.1.5#2025-11-23-1" class="hash-link" aria-label="2025-11-23的直接链接" title="2025-11-23的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-23-1">2025-11-23<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#2025-11-23-1" class="hash-link" aria-label="2025-11-23的直接链接" title="2025-11-23的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化供电桩逻辑，现在供电桩只会在放置时，只进行一次搜索，搜索半径30格范围内的<code>协议核心</code>或<code>中继器</code>，如果找到，则会把顶端的连接线渲染出来</li>
 <li class="">Optimized the logic of Electric Pylon. Now, the Electric Pylon will only perform a one-time search upon placement, searching for <code>Protocol Anchor Core</code> or <code>Relay Tower</code> within a 30-block radius. If found, it will render the top connection line.</li>
 <li class="">进一步优化<code>协议核心</code>的性能，移除了方块本身的tick方法，全部交给全局电网管理系统处理</li>
 <li class="">Further optimized the performance of <code>Protocol Anchor Core</code> by removing the block's own tick method and delegating all processing to the Global Power Grid Management System.</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-11">2025-11-11<a href="https://beishanair.github.io/blog/v0.1.5#2025-11-11" class="hash-link" aria-label="2025-11-11的直接链接" title="2025-11-11的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-11">2025-11-11<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#2025-11-11" class="hash-link" aria-label="2025-11-11的直接链接" title="2025-11-11的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试验证<code>FE转换单元</code></li>
 <li class="">Tested and verified <code>FE Converter</code></li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/blog/v0.1.5#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-19">2025-11-19<a href="https://beishanair.github.io/blog/v0.1.5#2025-11-19" class="hash-link" aria-label="2025-11-19的直接链接" title="2025-11-19的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-19">2025-11-19<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#2025-11-19" class="hash-link" aria-label="2025-11-19的直接链接" title="2025-11-19的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化供电桩逻辑，现在供电桩只会在放置时，只进行一次搜索，搜索半径30格范围内的<code>协议核心</code>或<code>中继器</code>，如果找到，则会把顶端的连接线渲染出来</li>
 <li class="">Optimized the logic of Electric Pylon. Now, the Electric Pylon will only perform a one-time search upon placement, searching for <code>Protocol Anchor Core</code> or <code>Relay Tower</code> within a 30-block radius. If found, it will render the top connection line.</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-18">2025-11-18<a href="https://beishanair.github.io/blog/v0.1.5#2025-11-18" class="hash-link" aria-label="2025-11-18的直接链接" title="2025-11-18的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-18">2025-11-18<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.5#2025-11-18" class="hash-link" aria-label="2025-11-18的直接链接" title="2025-11-18的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">进一步优化<code>协议核心</code>的性能，移除了方块本身的tick方法，全部交给全局电网管理系统处理</li>
 <li class="">Further optimized the performance of <code>Protocol Anchor Core</code> by removing the block's own tick method and delegating all processing to the Global Power Grid Management System.</li>
@@ -251,25 +251,25 @@
         </item>
         <item>
             <title><![CDATA[v0.1.4.1 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.4.1</link>
-            <guid>https://beishanair.github.io/blog/v0.1.4.1</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1</guid>
             <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.4.1 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.4.1 更新日志</p>
 <p>Endfield Industry Mod v0.1.4.1 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/blog/v0.1.4.1#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-09">2025-11-09<a href="https://beishanair.github.io/blog/v0.1.4.1#2025-11-09" class="hash-link" aria-label="2025-11-09的直接链接" title="2025-11-09的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-09">2025-11-09<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1#2025-11-09" class="hash-link" aria-label="2025-11-09的直接链接" title="2025-11-09的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修正配方问题</li>
 <li class="">Fixed recipe issues</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/blog/v0.1.4.1#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-09-1">2025-11-09<a href="https://beishanair.github.io/blog/v0.1.4.1#2025-11-09-1" class="hash-link" aria-label="2025-11-09的直接链接" title="2025-11-09的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-09-1">2025-11-09<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1#2025-11-09-1" class="hash-link" aria-label="2025-11-09的直接链接" title="2025-11-09的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修正配方问题</li>
 <li class="">Fixed recipe issues</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-03---11-06">2025-11-03 -&gt; 11-06<a href="https://beishanair.github.io/blog/v0.1.4.1#2025-11-03---11-06" class="hash-link" aria-label="2025-11-03 -> 11-06的直接链接" title="2025-11-03 -> 11-06的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-03---11-06">2025-11-03 -&gt; 11-06<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4.1#2025-11-03---11-06" class="hash-link" aria-label="2025-11-03 -> 11-06的直接链接" title="2025-11-03 -> 11-06的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试验证<code>供货终端</code></li>
 <li class="">Tested and verified <code>Supply Terminal</code></li>
@@ -280,21 +280,21 @@
         </item>
         <item>
             <title><![CDATA[v0.1.4 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.4</link>
-            <guid>https://beishanair.github.io/blog/v0.1.4</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.4</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.4</guid>
             <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.4 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.4 更新日志</p>
 <p>Endfield Industry Mod v0.1.4 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/blog/v0.1.4#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-02">2025-11-02<a href="https://beishanair.github.io/blog/v0.1.4#2025-11-02" class="hash-link" aria-label="2025-11-02的直接链接" title="2025-11-02的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-02">2025-11-02<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4#2025-11-02" class="hash-link" aria-label="2025-11-02的直接链接" title="2025-11-02的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">调整了矿物生成的概率</li>
 <li class="">Adjusted the probability of mineral generation</li>
 <li class="">牛、绵羊、猪可以掉落<code>兽肉</code>，骷髅和凋零骷髅可以掉落<code>异香石块</code>等系列方块</li>
 <li class="">Cows, sheep, and pigs can drop <code>Fillet</code>, while skeletons and wither skeletons can drop <code>Aggagrit Blocks</code> and related blocks</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-01">2025-11-01<a href="https://beishanair.github.io/blog/v0.1.4#2025-11-01" class="hash-link" aria-label="2025-11-01的直接链接" title="2025-11-01的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-01">2025-11-01<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4#2025-11-01" class="hash-link" aria-label="2025-11-01的直接链接" title="2025-11-01的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化<code>协议核心端口</code>，可以实现物品筛选</li>
 <li class="">Optimized <code>Protocol Anchor Core Port</code> to support item filtering</li>
@@ -305,15 +305,15 @@
 <li class="">添加了一些配方</li>
 <li class="">Added some recipes</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/blog/v0.1.4#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-02-1">2025-11-02<a href="https://beishanair.github.io/blog/v0.1.4#2025-11-02-1" class="hash-link" aria-label="2025-11-02的直接链接" title="2025-11-02的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-02-1">2025-11-02<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4#2025-11-02-1" class="hash-link" aria-label="2025-11-02的直接链接" title="2025-11-02的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">调整了矿物生成的概率</li>
 <li class="">Adjusted the probability of mineral generation</li>
 <li class="">牛、绵羊、猪可以掉落<code>兽肉</code>，骷髅和凋零骷髅可以掉落<code>异香石块</code>等系列方块</li>
 <li class="">Cows, sheep, and pigs can drop <code>Fillet</code>, while skeletons and wither skeletons can drop <code>Aggagrit Blocks</code> and related blocks</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-01-1">2025-11-01<a href="https://beishanair.github.io/blog/v0.1.4#2025-11-01-1" class="hash-link" aria-label="2025-11-01的直接链接" title="2025-11-01的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-11-01-1">2025-11-01<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.4#2025-11-01-1" class="hash-link" aria-label="2025-11-01的直接链接" title="2025-11-01的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化<code>协议核心端口</code>，可以实现物品筛选</li>
 <li class="">Optimized <code>Protocol Anchor Core Port</code> to support item filtering</li>
@@ -324,76 +324,76 @@
         </item>
         <item>
             <title><![CDATA[v0.1.3 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.3</link>
-            <guid>https://beishanair.github.io/blog/v0.1.3</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.3</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.3</guid>
             <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.3 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.3 更新日志</p>
 <p>Endfield Industry Mod v0.1.3 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/blog/v0.1.3#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-29">2025-10-29<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-29" class="hash-link" aria-label="2025-10-29的直接链接" title="2025-10-29的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-29">2025-10-29<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-29" class="hash-link" aria-label="2025-10-29的直接链接" title="2025-10-29的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修正各设备的渲染问题，以确保在安装<code>Embeddium</code>等优化模组时不会出现渲染异常</li>
 <li class="">Fixed rendering issues of various devices to ensure no rendering anomalies occur when optimization mods like <code>Embeddium</code> are installed</li>
 <li class="">调整<code>供电桩</code>供电逻辑</li>
 <li class="">Adjusted the power supply logic of <code>Electric Pylon</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-28">2025-10-28<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-28" class="hash-link" aria-label="2025-10-28的直接链接" title="2025-10-28的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-28">2025-10-28<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-28" class="hash-link" aria-label="2025-10-28的直接链接" title="2025-10-28的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化<code>协议核心</code>tick方法，提高游戏性能</li>
 <li class="">Optimized the tick method of <code>Protocol Anchor Core</code> to improve game performance</li>
 <li class="">添加<code>协议核心端口</code>，用于输入物品</li>
 <li class="">Added <code>Protocol Anchor Core Port</code> for item input</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-27">2025-10-27<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-27" class="hash-link" aria-label="2025-10-27的直接链接" title="2025-10-27的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-27">2025-10-27<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-27" class="hash-link" aria-label="2025-10-27的直接链接" title="2025-10-27的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">为<code>协议核心</code>添加中央仓库，用于存储物品</li>
 <li class="">Added a central warehouse to <code>Protocol Anchor Core</code> for item storage</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-25---2025-10-26">2025-10-25 -&gt; 2025-10-26<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-25---2025-10-26" class="hash-link" aria-label="2025-10-25 -> 2025-10-26的直接链接" title="2025-10-25 -> 2025-10-26的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-25---2025-10-26">2025-10-25 -&gt; 2025-10-26<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-25---2025-10-26" class="hash-link" aria-label="2025-10-25 -> 2025-10-26的直接链接" title="2025-10-25 -> 2025-10-26的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">添加<code>成就</code></li>
 <li class="">Added <code>Achievements</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-24">2025-10-24<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-24" class="hash-link" aria-label="2025-10-24的直接链接" title="2025-10-24的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-24">2025-10-24<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-24" class="hash-link" aria-label="2025-10-24的直接链接" title="2025-10-24的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修复<code>制造台</code>刷物品的特性（bug）</li>
 <li class="">Fixed the item duplication bug in <code>Crafter</code></li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/blog/v0.1.3#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-29-1">2025-10-29<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-29-1" class="hash-link" aria-label="2025-10-29的直接链接" title="2025-10-29的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-29-1">2025-10-29<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-29-1" class="hash-link" aria-label="2025-10-29的直接链接" title="2025-10-29的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">调整<code>供电桩</code>供电逻辑</li>
 <li class="">Adjusted the power supply logic of <code>Electric Pylon</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-28-1">2025-10-28<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-28-1" class="hash-link" aria-label="2025-10-28的直接链接" title="2025-10-28的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-28-1">2025-10-28<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-28-1" class="hash-link" aria-label="2025-10-28的直接链接" title="2025-10-28的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">优化<code>协议核心</code>tick方法，提高游戏性能</li>
 <li class="">Optimized the tick method of <code>Protocol Anchor Core</code> to improve game performance</li>
 <li class="">添加<code>协议核心端口</code>，用于输入物品</li>
 <li class="">Added <code>Protocol Anchor Core Port</code> for item input</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-27-1">2025-10-27<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-27-1" class="hash-link" aria-label="2025-10-27的直接链接" title="2025-10-27的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-27-1">2025-10-27<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-27-1" class="hash-link" aria-label="2025-10-27的直接链接" title="2025-10-27的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">为<code>协议核心</code>添加中央仓库，用于存储物品</li>
 <li class="">Added a central warehouse to <code>Protocol Anchor Core</code> for item storage</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-25---2025-10-26-1">2025-10-25 -&gt; 2025-10-26<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-25---2025-10-26-1" class="hash-link" aria-label="2025-10-25 -> 2025-10-26的直接链接" title="2025-10-25 -> 2025-10-26的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-25---2025-10-26-1">2025-10-25 -&gt; 2025-10-26<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-25---2025-10-26-1" class="hash-link" aria-label="2025-10-25 -> 2025-10-26的直接链接" title="2025-10-25 -> 2025-10-26的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">添加<code>成就</code></li>
 <li class="">Added <code>Achievements</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-24-1">2025-10-24<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-24-1" class="hash-link" aria-label="2025-10-24的直接链接" title="2025-10-24的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-24-1">2025-10-24<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-24-1" class="hash-link" aria-label="2025-10-24的直接链接" title="2025-10-24的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修复<code>制造台</code>刷物品的特性（bug）</li>
 <li class="">Fixed the item duplication bug in <code>Crafter</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-21">2025-10-21<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-21" class="hash-link" aria-label="2025-10-21的直接链接" title="2025-10-21的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-21">2025-10-21<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-21" class="hash-link" aria-label="2025-10-21的直接链接" title="2025-10-21的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">开始研究流体管道</li>
 <li class="">Started researching fluid pipelines</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-19">2025-10-19<a href="https://beishanair.github.io/blog/v0.1.3#2025-10-19" class="hash-link" aria-label="2025-10-19的直接链接" title="2025-10-19的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-19">2025-10-19<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.3#2025-10-19" class="hash-link" aria-label="2025-10-19的直接链接" title="2025-10-19的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">更新食物</li>
 <li class="">Updated food items</li>
@@ -404,24 +404,24 @@
         </item>
         <item>
             <title><![CDATA[v0.1.2 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.2</link>
-            <guid>https://beishanair.github.io/blog/v0.1.2</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.2</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.2</guid>
             <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.2 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.2 更新日志</p>
 <p>Endfield Industry Mod v0.1.2 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/blog/v0.1.2#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-18">2025-10-18<a href="https://beishanair.github.io/blog/v0.1.2#2025-10-18" class="hash-link" aria-label="2025-10-18的直接链接" title="2025-10-18的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.2#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-18">2025-10-18<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.2#2025-10-18" class="hash-link" aria-label="2025-10-18的直接链接" title="2025-10-18的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">更新<code>协议核心</code>GUI界面</li>
 <li class="">Updated <code>Protocol Anchor Core</code> GUI interface</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-17">2025-10-17<a href="https://beishanair.github.io/blog/v0.1.2#2025-10-17" class="hash-link" aria-label="2025-10-17的直接链接" title="2025-10-17的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-17">2025-10-17<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.2#2025-10-17" class="hash-link" aria-label="2025-10-17的直接链接" title="2025-10-17的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>制造台</code>现在关闭GUI时，会自动返回输入槽中未使用的物品</li>
 <li class="">When closing the GUI of <code>Crafter</code>, unused items in the input slots will be automatically returned</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-16">2025-10-16<a href="https://beishanair.github.io/blog/v0.1.2#2025-10-16" class="hash-link" aria-label="2025-10-16的直接链接" title="2025-10-16的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-16">2025-10-16<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.2#2025-10-16" class="hash-link" aria-label="2025-10-16的直接链接" title="2025-10-16的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">添加<code>全局电网管理系统</code>，统一调配全世界范围内的电力</li>
 <li class="">Added <code>Global Power Grid Management System</code> to centrally manage power distribution worldwide</li>
@@ -430,14 +430,14 @@
         </item>
         <item>
             <title><![CDATA[v0.1.1 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.1</link>
-            <guid>https://beishanair.github.io/blog/v0.1.1</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.1</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.1</guid>
             <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.1 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.1 更新日志</p>
 <p>Endfield Industry Mod v0.1.1 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/blog/v0.1.1#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-15">2025-10-15<a href="https://beishanair.github.io/blog/v0.1.1#2025-10-15" class="hash-link" aria-label="2025-10-15的直接链接" title="2025-10-15的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.1#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-15">2025-10-15<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.1#2025-10-15" class="hash-link" aria-label="2025-10-15的直接链接" title="2025-10-15的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">临时追加<code>晶体外壳</code>的熔炉和高炉配方，以保证游戏正常推进</li>
 <li class="">Temporarily added furnace and blast furnace recipes for <code>Origocrust</code> to ensure normal game progression</li>
@@ -448,14 +448,14 @@
         </item>
         <item>
             <title><![CDATA[v0.1.0 Changelog]]></title>
-            <link>https://beishanair.github.io/blog/v0.1.0</link>
-            <guid>https://beishanair.github.io/blog/v0.1.0</guid>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.0</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v0.1.0</guid>
             <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[终末地工业模组 v0.1.0 更新日志]]></description>
             <content:encoded><![CDATA[<p>终末地工业模组 v0.1.0 更新日志</p>
 <p>Endfield Industry Mod v0.1.0 changelog.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/blog/v0.1.0#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-12---2025-10-13">2025-10-12 -&gt; 2025-10-13<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-12---2025-10-13" class="hash-link" aria-label="2025-10-12 -> 2025-10-13的直接链接" title="2025-10-12 -> 2025-10-13的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="forge-更新日志--forge-changelog">Forge 更新日志 / Forge Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#forge-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--forge-changelog" class="hash-link" aria-label="Forge 更新日志 / Forge Changelog的直接链接" title="Forge 更新日志 / Forge Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-12---2025-10-13">2025-10-12 -&gt; 2025-10-13<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-12---2025-10-13" class="hash-link" aria-label="2025-10-12 -> 2025-10-13的直接链接" title="2025-10-12 -> 2025-10-13的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>装备原件机</code>、<code>研磨机</code>、<code>灌装机</code>、<code>配件机</code>、<code>塑形机</code>、<code>封装机</code>、<code>种植机</code>、<code>采种机</code>、<code>粉碎机</code>移植完成</li>
 <li class="">Ported <code>Gearing Unit</code>, <code>Grinding Unit</code>, <code>Filling Unit</code>, <code>Fitting Unit</code>, <code>Moulding Unit</code>, <code>Packaging Unit</code>, <code>Planting Unit</code>, <code>Seed Picking Unit</code>, and <code>Shredding Unit</code></li>
@@ -464,199 +464,199 @@
 <li class="">调整各个工业设备的生产时间</li>
 <li class="">Adjusted production times for various industrial devices</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-11">2025-10-11<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-11" class="hash-link" aria-label="2025-10-11的直接链接" title="2025-10-11的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-11">2025-10-11<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-11" class="hash-link" aria-label="2025-10-11的直接链接" title="2025-10-11的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>中继器</code>、<code>供电桩</code>、<code>电驱矿机</code>、<code>二型电驱矿机</code>、<code>精炼炉</code>移植</li>
 <li class="">Ported <code>Relay Tower</code>, <code>Electric Pylon</code>, <code>Electric Mining Rig</code>, <code>Electric Mining Rig Mk II</code>, and <code>Refining Unit</code></li>
 <li class="">完成对其他工业模组的兼容，如<code>机械动力</code>、<code>通用机械</code>等</li>
 <li class="">Completed compatibility with other industrial mods, such as <code>Create</code>, <code>Mekanism</code>, etc.</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-10">2025-10-10<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-10" class="hash-link" aria-label="2025-10-10的直接链接" title="2025-10-10的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-10">2025-10-10<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-10" class="hash-link" aria-label="2025-10-10的直接链接" title="2025-10-10的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修正<code>制造台</code>合成时扣除物品数量异常的问题</li>
 <li class="">Fixed the issue of abnormal item quantity deduction when crafting with <code>Crafter</code></li>
 <li class=""><code>便携源石矿机</code>、<code>协议核心</code>、<code>热能池</code>移植完成</li>
 <li class=""><code>Portable Originium Rig</code>, <code>Protocol Anchor Core</code>, and <code>Thermal Bank</code> porting completed</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-08">2025-10-08<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-08" class="hash-link" aria-label="2025-10-08的直接链接" title="2025-10-08的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-08">2025-10-08<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-08" class="hash-link" aria-label="2025-10-08的直接链接" title="2025-10-08的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">移植<code>制造台</code></li>
 <li class="">Ported <code>Crafter</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-07">2025-10-07<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-07" class="hash-link" aria-label="2025-10-07的直接链接" title="2025-10-07的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-07">2025-10-07<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-07" class="hash-link" aria-label="2025-10-07的直接链接" title="2025-10-07的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>Forge</code>版本开始移植</li>
 <li class="">The <code>Forge</code> version begins to be ported</li>
 <li class="">更新世界生成</li>
 <li class="">Updated world generation</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/blog/v0.1.0#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-13">2025-10-13<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-13" class="hash-link" aria-label="2025-10-13的直接链接" title="2025-10-13的直接链接" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="fabric-更新日志--fabric-changelog">Fabric 更新日志 / Fabric Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#fabric-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--fabric-changelog" class="hash-link" aria-label="Fabric 更新日志 / Fabric Changelog的直接链接" title="Fabric 更新日志 / Fabric Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-13">2025-10-13<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-13" class="hash-link" aria-label="2025-10-13的直接链接" title="2025-10-13的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">调整各个工业设备的生产时间</li>
 <li class="">Adjusted production times for various industrial devices</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-12">2025-10-12<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-12" class="hash-link" aria-label="2025-10-12的直接链接" title="2025-10-12的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-12">2025-10-12<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-12" class="hash-link" aria-label="2025-10-12的直接链接" title="2025-10-12的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修正各类配方的序列化器，以保证多人游戏正常运行</li>
 <li class="">Fixed serializers for various recipes to ensure proper operation in multiplayer games</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-10-1">2025-10-10<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-10-1" class="hash-link" aria-label="2025-10-10的直接链接" title="2025-10-10的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-10-1">2025-10-10<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-10-1" class="hash-link" aria-label="2025-10-10的直接链接" title="2025-10-10的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修正<code>制造台</code>合成时扣除物品数量异常的问题</li>
 <li class="">Fixed the issue of abnormal item quantity deduction when crafting with <code>Crafter</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-07-1">2025-10-07<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-07-1" class="hash-link" aria-label="2025-10-07的直接链接" title="2025-10-07的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-07-1">2025-10-07<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-07-1" class="hash-link" aria-label="2025-10-07的直接链接" title="2025-10-07的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>Forge</code>版本开始移植</li>
 <li class="">The <code>Forge</code> version begins to be ported</li>
 <li class="">修改命名空间，以减少移植工作量</li>
 <li class="">Modified the namespace to reduce the amount of porting work</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-06">2025-10-06<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-06" class="hash-link" aria-label="2025-10-06的直接链接" title="2025-10-06的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-06">2025-10-06<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-06" class="hash-link" aria-label="2025-10-06的直接链接" title="2025-10-06的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>REI</code>适配，支持配方查询</li>
 <li class="">REI adaptation, supporting recipe lookup</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-04">2025-10-04<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-04" class="hash-link" aria-label="2025-10-04的直接链接" title="2025-10-04的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-04">2025-10-04<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-04" class="hash-link" aria-label="2025-10-04的直接链接" title="2025-10-04的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修改一些物品的排序</li>
 <li class="">Modified the sorting of some items</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-03">2025-10-03<a href="https://beishanair.github.io/blog/v0.1.0#2025-10-03" class="hash-link" aria-label="2025-10-03的直接链接" title="2025-10-03的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-10-03">2025-10-03<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-10-03" class="hash-link" aria-label="2025-10-03的直接链接" title="2025-10-03的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">增加各种植物的世界生成</li>
 <li class="">Added world generation for various plants</li>
 <li class="">增加<code>制造台</code>方块实体，用于合成工业设备</li>
 <li class="">Added <code>Crafter</code> block entity for crafting industrial equipment</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-29">2025-09-29<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-29" class="hash-link" aria-label="2025-09-29的直接链接" title="2025-09-29的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-29">2025-09-29<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-29" class="hash-link" aria-label="2025-09-29的直接链接" title="2025-09-29的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">完成剩余工业设备适配<code>机械动力</code></li>
 <li class="">Completed adaptation of remaining industrial equipment to <code>Create</code></li>
 <li class="">配置矿物的世界生成</li>
 <li class="">Configured world generation for minerals</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-28">2025-09-28<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-28" class="hash-link" aria-label="2025-09-28的直接链接" title="2025-09-28的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-28">2025-09-28<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-28" class="hash-link" aria-label="2025-09-28的直接链接" title="2025-09-28的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">适配<code>机械动力</code></li>
 <li class="">Adapted to <code>Create</code></li>
 <li class="">现在玩家第一次进入一个新存档将获得一个<code>协议核心</code></li>
 <li class="">Now players will receive a <code>Protocol Anchor Core</code> when they enter a new save for the first time</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-20---2025-09-27">2025-09-20 -&gt; 2025-09-27<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-20---2025-09-27" class="hash-link" aria-label="2025-09-20 -> 2025-09-27的直接链接" title="2025-09-20 -> 2025-09-27的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-20---2025-09-27">2025-09-20 -&gt; 2025-09-27<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-20---2025-09-27" class="hash-link" aria-label="2025-09-20 -> 2025-09-27的直接链接" title="2025-09-20 -> 2025-09-27的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">更新一些物品贴图，方块贴图</li>
 <li class="">Updated some item textures, block textures</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-19">2025-09-19<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-19" class="hash-link" aria-label="2025-09-19的直接链接" title="2025-09-19的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-19">2025-09-19<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-19" class="hash-link" aria-label="2025-09-19的直接链接" title="2025-09-19的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">添加一堆物品</li>
 <li class="">Added a bunch of items</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-18">2025-09-18<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-18" class="hash-link" aria-label="2025-09-18的直接链接" title="2025-09-18的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-18">2025-09-18<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-18" class="hash-link" aria-label="2025-09-18的直接链接" title="2025-09-18的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>研磨机</code>、<code>封装机</code>、<code>灌装机</code>处理逻辑</li>
 <li class="">Configured processing logic for <code>Grinding Unit</code>, <code>Packaging Unit</code>, <code>Filling Unit</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-17">2025-09-17<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-17" class="hash-link" aria-label="2025-09-17的直接链接" title="2025-09-17的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-17">2025-09-17<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-17" class="hash-link" aria-label="2025-09-17的直接链接" title="2025-09-17的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>电驱矿机</code>、<code>二型电驱矿机</code>处理逻辑</li>
 <li class="">Configured processing logic for <code>Electric Mining Rig</code> and <code>Electric Mining Rig Mk II</code></li>
 <li class="">配置<code>粉碎机</code>、<code>配件机</code>、<code>塑形机</code>、<code>种植机</code>、<code>采种机</code>处理逻辑</li>
 <li class="">Configured processing logic for <code>Shredding Unit</code>, <code>Fitting Unit</code>, <code>Moulding Unit</code>, <code>Planting Unit</code>, <code>Seed-Picking Unit</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-16">2025-09-16<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-16" class="hash-link" aria-label="2025-09-16的直接链接" title="2025-09-16的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-16">2025-09-16<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-16" class="hash-link" aria-label="2025-09-16的直接链接" title="2025-09-16的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">修改<code>装备原件机</code>的配方编解码器，支持传入输入物品数量</li>
 <li class="">Modified the recipe codec of <code>Gearing Unit</code> to support input item quantity</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-15">2025-09-15<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-15" class="hash-link" aria-label="2025-09-15的直接链接" title="2025-09-15的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-15">2025-09-15<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-15" class="hash-link" aria-label="2025-09-15的直接链接" title="2025-09-15的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>装备原件机</code>处理逻辑，实现多输入单输出功能</li>
 <li class="">Configured processing logic for <code>Gearing Unit</code>, implementing multi-input single-output functionality</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-14">2025-09-14<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-14" class="hash-link" aria-label="2025-09-14的直接链接" title="2025-09-14的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-14">2025-09-14<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-14" class="hash-link" aria-label="2025-09-14的直接链接" title="2025-09-14的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>中继器</code>、<code>供电桩</code>、<code>精炼炉</code>、<code>热能池</code>运行逻辑</li>
 <li class="">Configured operation logic for <code>Relay Tower</code>, <code>Electric Pylon</code>, <code>Refining Unit</code>, <code>Thermal Bank</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-13">2025-09-13<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-13" class="hash-link" aria-label="2025-09-13的直接链接" title="2025-09-13的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-13">2025-09-13<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-13" class="hash-link" aria-label="2025-09-13的直接链接" title="2025-09-13的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">为<code>协议核心</code>配置GUI、各个电网参数</li>
 <li class="">Configured GUI and various power grid parameters for <code>Protocol Anchor Core</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-11">2025-09-11<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-11" class="hash-link" aria-label="2025-09-11的直接链接" title="2025-09-11的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-11">2025-09-11<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-11" class="hash-link" aria-label="2025-09-11的直接链接" title="2025-09-11的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">为各个矿石添加对应的矿脉方块，供采矿机采集</li>
 <li class="">Added ore vein blocks for each ore type, to be collected by mining rigs</li>
 <li class="">实装<code>便携源石矿机</code>实现逻辑，并配置相应的配方</li>
 <li class="">Implemented logic for <code>Portable Originium Rig</code> and configured corresponding recipes</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-10">2025-09-10<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-10" class="hash-link" aria-label="2025-09-10的直接链接" title="2025-09-10的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-10">2025-09-10<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-10" class="hash-link" aria-label="2025-09-10的直接链接" title="2025-09-10的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>灌装机</code>、<code>配件机</code>、<code>装备原件机</code>、<code>研磨机</code>、<code>塑形机</code>、<code>封装机</code>、<code>种植机</code>、<code>采种机</code>、<code>热能池</code>高模</li>
 <li class="">Configured high-poly model for <code>Filling Unit</code>, <code>Fitting Unit</code>, <code>Gearing Unit</code>, <code>Grinding Unit</code>, <code>Moulding Unit</code>, <code>Packaging Unit</code>, <code>Planting Unit</code>, <code>Seed-Picking Unit</code>, <code>Thermal Bank</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-08">2025-09-08<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-08" class="hash-link" aria-label="2025-09-08的直接链接" title="2025-09-08的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-08">2025-09-08<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-08" class="hash-link" aria-label="2025-09-08的直接链接" title="2025-09-08的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>中继器</code>、<code>供电桩</code>、<code>电驱矿机</code>、<code>便携源石矿机</code>、<code>二型电驱矿机</code>、<code>精炼炉</code>、<code>粉碎机</code>高模</li>
 <li class="">Configured high-poly model for <code>Relay Tower</code>, <code>Electric Pylon</code>, <code>Electric Mining Rig</code>, <code>Portable Originium Rig</code>, <code>Electric Mining Rig Mk II</code>, <code>Refining Unit</code>, <code>Shredding Unit</code></li>
 <li class="">修正<code>协议核心</code>的模型和动画</li>
 <li class="">Fixed model and animation of <code>Protocol Anchor Core</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-06">2025-09-06<a href="https://beishanair.github.io/blog/v0.1.0#2025-09-06" class="hash-link" aria-label="2025-09-06的直接链接" title="2025-09-06的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-09-06">2025-09-06<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-09-06" class="hash-link" aria-label="2025-09-06的直接链接" title="2025-09-06的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">配置<code>协议核心</code>的高模</li>
 <li class="">Configured high-poly model for <code>Protocol Anchor Core</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-27">2025-08-27<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-27" class="hash-link" aria-label="2025-08-27的直接链接" title="2025-08-27的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-27">2025-08-27<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-27" class="hash-link" aria-label="2025-08-27的直接链接" title="2025-08-27的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试<code>供电桩</code>供能输出，连接<code>中继站</code>或<code>协议核心</code>，远程输电</li>
 <li class="">测试最简单的一个<code>用电终端</code>，由<code>供电桩</code>供能，消耗上游<code>协议核心</code>的电力</li>
 <li class="">Tested power output of <code>Power Supply Pile</code>, connecting to <code>Relay Station</code> or <code>Protocol Anchor Core</code> for remote power transmission</li>
 <li class="">Tested the simplest <code>Power Consumer</code>, powered by <code>Power Supply Pile</code>, consuming electricity from upstream <code>Protocol Anchor Core</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-26">2025-08-26<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-26" class="hash-link" aria-label="2025-08-26的直接链接" title="2025-08-26的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-26">2025-08-26<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-26" class="hash-link" aria-label="2025-08-26的直接链接" title="2025-08-26的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">尝试解决<code>中继站</code>和<code>协议核心</code>、其他<code>中继站</code>之间电线（激光）的渲染问题，但失败了，暂时搁置</li>
 <li class="">Attempted to solve the rendering issue of wires (lasers) between <code>Relay Station</code> and <code>Protocol Anchor Core</code> or other <code>Relay Stations</code>, but failed and temporarily shelved it</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-25">2025-08-25<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-25" class="hash-link" aria-label="2025-08-25的直接链接" title="2025-08-25的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-25">2025-08-25<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-25" class="hash-link" aria-label="2025-08-25的直接链接" title="2025-08-25的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试<code>中继站</code>，实现传输<code>协议核心</code>或者是最近的<code>中继站</code>的电力</li>
 <li class="">Tested <code>Relay Station</code>, which transmits power from the <code>Protocol Anchor Core</code> or the nearest <code>Relay Station</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-24">2025-08-24<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-24" class="hash-link" aria-label="2025-08-24的直接链接" title="2025-08-24的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-24">2025-08-24<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-24" class="hash-link" aria-label="2025-08-24的直接链接" title="2025-08-24的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">为<code>热能池</code>配置GUI，热能池需要燃烧燃料来发电</li>
 <li class="">更新<code>协议核心</code>的GUI，显示实时数据</li>
 <li class="">Configured GUI for <code>Thermal Pool</code>, which requires burning fuel to generate power</li>
 <li class="">Updated GUI for <code>Protocol Anchor Core</code> to display real-time data</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-23">2025-08-23<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-23" class="hash-link" aria-label="2025-08-23的直接链接" title="2025-08-23的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-23">2025-08-23<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-23" class="hash-link" aria-label="2025-08-23的直接链接" title="2025-08-23的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">尝试构建电网系统，测试<code>协议核心</code>自发电功能</li>
 <li class="">测试<code>热能池</code>的发电功能，并接入<code>协议核心</code>，提供额外发电</li>
 <li class="">Attempted to build a power grid system and tested the self-power generation function of <code>Protocol Anchor Core</code></li>
 <li class="">Tested the power generation function of <code>Thermal Pool</code> and connected it to <code>Protocol Anchor Core</code> to provide additional power generation</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-22">2025-08-22<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-22" class="hash-link" aria-label="2025-08-22的直接链接" title="2025-08-22的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-22">2025-08-22<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-22" class="hash-link" aria-label="2025-08-22的直接链接" title="2025-08-22的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试多输入多输出口的方块实体，并验证其与<code>机械动力</code>的兼容性</li>
 <li class="">Tested block entities with multiple input and output ports, and verified their compatibility with <code>Create</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-21">2025-08-21<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-21" class="hash-link" aria-label="2025-08-21的直接链接" title="2025-08-21的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-21">2025-08-21<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-21" class="hash-link" aria-label="2025-08-21的直接链接" title="2025-08-21的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试方块实体输入输出，实现<code>SideInventory</code>接口</li>
 <li class="">Tested block entity input and output, implemented <code>SideInventory</code> interface</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-20">2025-08-20<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-20" class="hash-link" aria-label="2025-08-20的直接链接" title="2025-08-20的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-20">2025-08-20<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-20" class="hash-link" aria-label="2025-08-20的直接链接" title="2025-08-20的直接链接" translate="no">​</a></h3>
 <ul>
 <li class="">测试<code>便携源石矿机</code>可行性</li>
 <li class="">Tested the feasibility of <code>Portable Originium Rig</code></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-19">2025-08-19<a href="https://beishanair.github.io/blog/v0.1.0#2025-08-19" class="hash-link" aria-label="2025-08-19的直接链接" title="2025-08-19的直接链接" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2025-08-19">2025-08-19<a href="https://beishanair.github.io/endfieldDoc/blog/v0.1.0#2025-08-19" class="hash-link" aria-label="2025-08-19的直接链接" title="2025-08-19的直接链接" translate="no">​</a></h3>
 <ul>
 <li class=""><code>终末地工业</code>项目正式启动</li>
 <li class=""><code>Endfield Industry</code> project officially launched</li>

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkendfield_doc=globalThis.webpackChunkendfield_doc||[]).push([[4015],{1253(e){e.exports=JSON.parse('{"metadata":{"permalink":"/endfieldDoc/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/endfieldDoc/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
