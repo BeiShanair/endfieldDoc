@@ -8,11 +8,13 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+const isGitHubPages = process.env.DEPLOY_TARGET === 'gh-pages';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Endfield Industry Documentation',
   tagline: 'Endfield Industry Mod',
-  favicon: 'img/icon.png',
+  favicon: 'endfieldDoc/img/icon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -23,13 +25,14 @@ const config = {
   url: 'https://beishanair.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/endfieldDoc/',
+  baseUrl: isGitHubPages ? '/endfieldDoc/' : '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'https://beishanair.github.io', // Usually your GitHub org/user name.
+  organizationName: 'BeiShanair', // Usually your GitHub org/user name.
   projectName: 'endfieldDoc', // Usually your repo name.
-
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -47,10 +50,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -58,14 +57,11 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -147,6 +143,32 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'DDNJD4J9HA',
+
+        // Public API key: it is safe to commit it
+        apiKey: '4f9f4adc285605ea1376f6d20ba2c1ea',
+
+        indexName: 'endfieldDoc',
+
+        // Optional: see doc section below
+        contextualSearch: false,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'external\.com|domain\.com',
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+        insights: false,
+
+        //... other Algolia params
       },
     }),
 };
