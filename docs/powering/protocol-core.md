@@ -29,14 +29,18 @@ The beginning of everything, the core of the AIC
   Protocol Core depends on `Global Power Network` to work, see [Global Power Network](../powering/global-power-network.md) for details
 
 ## Tips
-强烈建议直接将`协议核心`放置在你的出生点区块附近，或者将`协议核心`所在区块设定为`常加载区块`，以保证电力系统的运行
+- 强烈建议直接将`协议核心`放置在你的出生点区块附近，或者将`协议核心`所在区块设定为`常加载区块`，以保证电力系统的运行
 
-It is strongly recommended to place the `Protocol Core` near your birth point chunk or set the chunk where the `Protocol Core` is located as a `Ticking area` to ensure the operation of the electricity system
+  It is strongly recommended to place the `Protocol Core` near your birth point chunk or set the chunk where the `Protocol Core` is located as a `Ticking area` to ensure the operation of the electricity system
 
-曾经协议核心与其他工业设备可以当作`盾构机`使用，因为放置时会直接破坏周围方块，不论是什么；但自0.1.8-beta起，放置时如果空间不够则无法放置；
+- 曾经协议核心与其他工业设备可以当作`盾构机`使用，因为放置时会直接破坏周围方块，不论是什么；但自0.1.8-beta起，放置时如果空间不够则无法放置；
 
-Protocol Core can be used as a `Shield Machine` before, because it will destroy the surrounding blocks when placed, regardless of what it is; But from 0.1.8-beta, it cannot be placed if there is not enough space;
+  Protocol Core can be used as a `Shield Machine` before, because it will destroy the surrounding blocks when placed, regardless of what it is; But from 0.1.8-beta, it cannot be placed if there is not enough space;
 
-协议核心底座上的方块，除了中央的方块外，都可以破坏，然后放置`协议核心端口`，参见[协议核心端口](../logistics-units/protocol-core-port.md)
+- 协议核心底座上的方块，除了中央的方块外，都可以破坏，然后放置`协议核心端口`，参见[协议核心端口](../logistics-units/protocol-core-port.md)
 
-Blocks on the protocol core base, except for the central one, can be destroyed, and then 'protocol core ports' are placed, see [Protocol Core Port](../logistics-units/protocol-core-port.md)
+  Blocks on the protocol core base, except for the central one, can be destroyed, and then 'protocol core ports' are placed, see [Protocol Core Port](../logistics-units/protocol-core-port.md)
+
+- 放置`协议核心`时，需要`9×9`的空地
+
+  When placing the `Protocol Core`, you need an empty `9×9` area
