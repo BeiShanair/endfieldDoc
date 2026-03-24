@@ -4,10 +4,91 @@
         <title>Endfield Industry Documentation Blog</title>
         <link>https://beishanair.github.io/endfieldDoc/blog</link>
         <description>Endfield Industry Documentation Blog</description>
-        <lastBuildDate>Sat, 07 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[v1.0.0 Changelog]]></title>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v1.0.0</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v1.0.0</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[终末地工业模组 v1.0.0 更新日志，正式版发布！]]></description>
+            <content:encoded><![CDATA[<p>终末地工业模组 v1.0.0 更新日志，正式版发布！</p>
+<p>Endfield Industry Mod v1.0.0 changelog. Released Version now available!</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-24">2026-03-24<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-24" class="hash-link" aria-label="2026-03-24的直接链接" title="2026-03-24的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">修改多输入工业设备的逻辑，现在同一个物品只能输入一个物品槽中，当该槽满了以后，不再会再向其他槽输入物品；</li>
+<li class="">Change the logic of multi-input industrial devices. Now, the same item can only be input into one item slot, and if the slot is full, it will no longer input items into other slots</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-23">2026-03-23<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-23" class="hash-link" aria-label="2026-03-23的直接链接" title="2026-03-23的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">修改塔防设备逻辑，确保塔防设备击杀的怪物也能正常掉落经验；但注意，这是引入了一个不可见的玩家实体，所有伤害源来自于此实体，其名称为<code>[Turret]</code></li>
+<li class="">Change the logic of tower defense equipment, so that the monsters killed by the tower defense equipment can also drop experience; But note that this is an invisible player entity, all damage sources come from this entity, and its name is <code>[Turret]</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-20">2026-03-20<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-20" class="hash-link" aria-label="2026-03-20的直接链接" title="2026-03-20的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">继续完善部分细节，调整一些数值</li>
+<li class="">Continued to improve some details and adjust some values</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-19">2026-03-19<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-19" class="hash-link" aria-label="2026-03-19的直接链接" title="2026-03-19的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">基本完成另外两端的移植</li>
+<li class="">Basically completed the porting of the other two ends</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-18">2026-03-18<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-18" class="hash-link" aria-label="2026-03-18的直接链接" title="2026-03-18的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">初步完成各塔防设备的逻辑</li>
+<li class="">Preliminary completion of the logic for each tower defense equipment</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-17">2026-03-17<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-17" class="hash-link" aria-label="2026-03-17的直接链接" title="2026-03-17的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">初步完成文档站相关内容编写</li>
+<li class="">Completed writing and deployment of documentation site related to the mod</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-15">2026-03-15<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-15" class="hash-link" aria-label="2026-03-15的直接链接" title="2026-03-15的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">发现一个bug，但予以保留</li>
+<li class="">Found a bug, but retained</li>
+<li class="">修改部分逻辑，以契合此<code>特性</code></li>
+<li class="">Modified the logic, which is compatible with this feature</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-14">2026-03-14<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-14" class="hash-link" aria-label="2026-03-14的直接链接" title="2026-03-14的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">初步部署模组相关的文档站，并部署一个分站，用于缓解大陆地区访问问题</li>
+<li class="">Initially deployed the documentation site related to the mod, and deployed a sub-site to alleviate access issues in mainland China</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-12">2026-03-12<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-12" class="hash-link" aria-label="2026-03-12的直接链接" title="2026-03-12的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">测试各炮台</li>
+<li class="">Tested various gun towers</li>
+<li class="">开始编写和部署模组相关的文档站</li>
+<li class="">Started writing and deploying the documentation site related to the mod</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-10">2026-03-10<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-10" class="hash-link" aria-label="2026-03-10的直接链接" title="2026-03-10的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">各用电工业设备现在采用全局电网节点系统判断与<code>供电桩</code>和<code>中继器</code>的连接关系，不再直接遍历</li>
+<li class="">Each powered industrial device now uses a global power grid node system to determine its connection relationship with <code>Electric Pylon</code> and <code>Relay Tower</code>, instead of directly traversing them</li>
+<li class="">修改<code>协议核心</code>的发电量，现在发电量为200 EFU/t</li>
+<li class="">Modified the power generation of <code>Protocol Anchor Core</code>, now it generates 200 EFU/t</li>
+<li class="">现在工业设备内置电力储备的充能速度为<code>该设备的耗电量 * 20</code>，即如果设备的耗电量为10 EFU/t，那么它的充能速度就是200 EFU/s</li>
+<li class="">Now the charging speed of the built-in power reserve of industrial equipment is <code>the power consumption of the device * 20</code>, which means if the device's power consumption is 10 EFU/t, then its charging speed is 200 EFU/s</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-09">2026-03-09<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-09" class="hash-link" aria-label="2026-03-09的直接链接" title="2026-03-09的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">完成矿机分级，且便携源石矿机只能开采源石矿、红石矿和煤矿</li>
+<li class="">Complete mining machine classification, and portable source stone mining machines can only originium mines, redstone mines, and coal mines</li>
+<li class="">现在右键<code>中继器</code>或者<code>供电桩</code>就可以获取当前电网的相关信息</li>
+<li class="">Now can get current grid information through right-clicking <code>Relay Tower</code> or <code>Electric Pylon</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-08">2026-03-08<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.0#2026-03-08" class="hash-link" aria-label="2026-03-08的直接链接" title="2026-03-08的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">修改一些逻辑，现在新玩家首次进入游戏会送一些相应的矿脉方块，以后更新都是如此</li>
+<li class="">Change some logic, now new players will receive some ore vein blocks when they enter the game</li>
+</ul>]]></content:encoded>
+            <category>ChangeLog</category>
+        </item>
         <item>
             <title><![CDATA[v0.1.8 Changelog]]></title>
             <link>https://beishanair.github.io/endfieldDoc/blog/v0.1.8</link>
