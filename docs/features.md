@@ -31,6 +31,12 @@ Some are special designs different from the original game;
 
 电池充能速度为`该设备耗电功率的20倍`，比如耗电功率为`5 EFU/t`，则充能速度为`100 EFU/t`，不过你不需要知道剩下的`95 EFU/t`是哪来的
 
+:::warning
+
+`FE转换器`无此特性；
+
+:::
+
 模组中没有明确说明时，所用的时间单位为`tick`，而不是`秒`；在`Minecraft`中，`tick`为`1/20秒`；
 
 所以在整个电网的用电功率大于发电功率时，电网本身的`电池储能`消耗速度会比原作快得多；
@@ -64,6 +70,12 @@ Each piece of electrical industrial equipment comes with a battery storage capac
 The device will continue to consume power while its battery is not fully charged; however, once the battery is fully charged and the device is idle, it will not consume power;
 
 The battery charges at a rate of `20 times the device’s power consumption`. For example, if the power consumption is `5 EFU/t`, the charging rate is `100 EFU/t`—though you don’t need to know where the remaining `95 EFU/t` comes from
+
+:::warning
+
+Attention! The `FE Converter` does not have this feature;
+
+:::
 
 Unless otherwise specified in the mod, the unit of time used is `tick`, not `seconds`; in `Minecraft`, a `tick` is `1/20 of a second`;
 
