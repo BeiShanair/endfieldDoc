@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beishanair.github.io/endfieldDoc/blog</id>
     <title>Endfield Industry Documentation Blog</title>
-    <updated>2026-03-25T00:00:00.000Z</updated>
+    <updated>2026-03-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beishanair.github.io/endfieldDoc/blog"/>
     <subtitle>Endfield Industry Documentation Blog</subtitle>
     <icon>https://beishanair.github.io/endfieldDoc/endfieldDoc/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.0.1 Changelog]]></title>
+        <id>https://beishanair.github.io/endfieldDoc/blog/v1.0.1</id>
+        <link href="https://beishanair.github.io/endfieldDoc/blog/v1.0.1"/>
+        <updated>2026-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[终末地工业模组 v1.0.1 更新日志]]></summary>
+        <content type="html"><![CDATA[<p>终末地工业模组 v1.0.1 更新日志</p>
+<p>Endfield Industry Mod v1.0.1 changelog.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.1#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-29">2026-03-29<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.1#2026-03-29" class="hash-link" aria-label="2026-03-29的直接链接" title="2026-03-29的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">修复各塔防设备逻辑，取消使用实体，以避免与其他模组的兼容性问题；经验正常掉落；</li>
+<li class="">Fixed the logic of each tower defense equipment, canceling the use of entities to avoid compatibility issues with other mods; experience drops normally;</li>
+<li class="">暂时移除了部分物品；</li>
+<li class="">Temporarily removed some items;</li>
+</ul>]]></content>
+        <author>
+            <name>BeiShan_Besson</name>
+            <uri>https://github.com/BeiShanair</uri>
+        </author>
+        <category label="ChangeLog" term="ChangeLog"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.0.0 Changelog]]></title>
         <id>https://beishanair.github.io/endfieldDoc/blog/v1.0.0</id>

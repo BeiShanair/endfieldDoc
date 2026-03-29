@@ -4,10 +4,28 @@
         <title>Endfield Industry Documentation Blog</title>
         <link>https://beishanair.github.io/endfieldDoc/blog</link>
         <description>Endfield Industry Documentation Blog</description>
-        <lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[v1.0.1 Changelog]]></title>
+            <link>https://beishanair.github.io/endfieldDoc/blog/v1.0.1</link>
+            <guid>https://beishanair.github.io/endfieldDoc/blog/v1.0.1</guid>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[终末地工业模组 v1.0.1 更新日志]]></description>
+            <content:encoded><![CDATA[<p>终末地工业模组 v1.0.1 更新日志</p>
+<p>Endfield Industry Mod v1.0.1 changelog.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.1#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-03-29">2026-03-29<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.1#2026-03-29" class="hash-link" aria-label="2026-03-29的直接链接" title="2026-03-29的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">修复各塔防设备逻辑，取消使用实体，以避免与其他模组的兼容性问题；经验正常掉落；</li>
+<li class="">Fixed the logic of each tower defense equipment, canceling the use of entities to avoid compatibility issues with other mods; experience drops normally;</li>
+<li class="">暂时移除了部分物品；</li>
+<li class="">Temporarily removed some items;</li>
+</ul>]]></content:encoded>
+            <category>ChangeLog</category>
+        </item>
         <item>
             <title><![CDATA[v1.0.0 Changelog]]></title>
             <link>https://beishanair.github.io/endfieldDoc/blog/v1.0.0</link>
