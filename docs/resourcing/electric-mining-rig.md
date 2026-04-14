@@ -28,6 +28,10 @@ More advanced mining rig, need power to work
 
   Each `3 seconds` mine one ore;
 
+- 自`v1.0.2`版本开始，电驱矿机每隔`5秒`将自动提交开采到的矿物到`全局仓储管理系统`中，关于此内容参见[全局仓储管理系统](../logistics-units/global-storage-manager.md)
+
+  Since `v1.0.2`, the electric mining rig will automatically submit the mined ore to the `Global Storage Manager` every `5 seconds`, see [Global Storage Manager](../logistics-units/global-storage-manager.md) for details;
+
 ## 相关配方 / Related Recipes
 你可自定义数据包来拓展矿机能开采的东西；
 
