@@ -15,9 +15,9 @@ Automatically submit items to the Global Storage Manager at regular intervals
 
   It does not consume electricity, can be connected or disconnected
 
-- 在通电情况下，每隔`5秒`将自动提交存储的物品到`全局仓储管理系统`中，关于此内容参见[全局仓储管理系统](global-storage-manager.md)
+- 在通电情况下，每隔`10秒`将自动提交存储的物品到`全局仓储管理系统`中，关于此内容参见[全局仓储管理系统](global-storage-manager.md)
 
-  In the case of power-on, the stored items will be automatically submitted to the 'Global Storage Manager' every '5 seconds', for this content, see [Global Storage Manager](../logistics-units/global-storage-manager.md)  
+  In the case of power-on, the stored items will be automatically submitted to the 'Global Storage Manager' every '10 seconds', for this content, see [Global Storage Manager](../logistics-units/global-storage-manager.md)  
 
 - 在不通电的情况下，可作为一个普通的箱子
 

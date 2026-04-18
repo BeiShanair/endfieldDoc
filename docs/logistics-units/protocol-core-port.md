@@ -29,15 +29,13 @@ Placed around the protocol core, auxiliary input output items for the protocol c
 
 Protocol Core Port output has a direction, the arrow direction is the shipping direction; that is, the arrow points outwards, indicating output;
 
-输出端口的筛选功能，即：
-- 拿着一个`物品`右键，设置输出物品为该物品；
-- `空手`右键，可打开协议核心的GUI；
-- `Shift` + `空手`右键，取消筛选条件；
+自`v1.0.2`版本开始，输出端口已配置单独的GUI，可在对应槽位放置一个物品作为输出的筛选物品
 
-Output port filtering function, that is:
-- Holding an `item` right-click, set the output item to that item;
-- Right-click with an `empty hand`, open the protocol core GUI;
-- `Shift` + Right-click with an `empty hand`, cancel the filtering condition;
+From `v1.0.2` version, the output port has a separate GUI, which can be placed an item in the corresponding slot as the output filtering item
+
+同样自`v1.0.2`版本开始，输出端口会自动向本模组的`传送带`输送物品
+
+Also, from `v1.0.2` version, the output port will automatically output items to this mod's `belt`
 
 ## 技术性说明 / Technical Explanation
 协议核心端口本身是为了可以让玩家自由配置协议核心上的输入输出端口，因为终末地原作的确实不好用；
