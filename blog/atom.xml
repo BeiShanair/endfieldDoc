@@ -2,11 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beishanair.github.io/endfieldDoc/blog</id>
     <title>Endfield Industry Documentation Blog</title>
-    <updated>2026-04-18T00:00:00.000Z</updated>
+    <updated>2026-05-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://beishanair.github.io/endfieldDoc/blog"/>
     <subtitle>Endfield Industry Documentation Blog</subtitle>
     <icon>https://beishanair.github.io/endfieldDoc/endfieldDoc/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.0.3 Changelog]]></title>
+        <id>https://beishanair.github.io/endfieldDoc/blog/v1.0.3</id>
+        <link href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[终末地工业模组 v1.0.3 更新日志]]></summary>
+        <content type="html"><![CDATA[<p>终末地工业模组 v1.0.3 更新日志</p>
+<p>Endfield Industry Mod v1.0.3 changelog.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="更新日志--changelog">更新日志 / Changelog<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97--changelog" class="hash-link" aria-label="更新日志 / Changelog的直接链接" title="更新日志 / Changelog的直接链接" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-31">2026-05-31<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-31" class="hash-link" aria-label="2026-05-31的直接链接" title="2026-05-31的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">推送更新<code>v1.0.3</code>版本，<em>特别说明</em>：<strong>此次更新仍未完全实装武陵工业部分，如果确需体验已有内容，请做好存档备份，完全实装请等待下一次大版本（<code>v1.3.0</code>）更新</strong></li>
+<li class="">Updated to version <code>v1.0.3</code>, <em>Note</em>: <strong>This update has not yet fully implemented the Wuling Industrial Parts, if you need to experience the existing content, please make a backup, and fully implement the next major version (<code>v1.3.0</code>) update</strong></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-30">2026-05-30<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-30" class="hash-link" aria-label="2026-05-30的直接链接" title="2026-05-30的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">优化各工业设备放置逻辑，现在放置范围内如果有可被替换的方块（比如水、草等），也可以正常放置了</li>
+<li class="">Now, if there is a replaceable block (such as water or grass) within the placement range, the equipment can be placed normally</li>
+<li class="">完善全部工业设备的放置预览</li>
+<li class="">Complete all industrial equipment placement preview</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-26">2026-05-26<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-26" class="hash-link" aria-label="2026-05-26的直接链接" title="2026-05-26的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">为模组添加了<code>源石锤</code>，可以用来锤击工业设备，开启/关闭工业设备的流体模式（仅测试）</li>
+<li class="">Added a <code>Originium Hammer</code> to process industrial equipment, open/close the industrial equipment's fluid mode（Only Test）</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-19">2026-05-19<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-19" class="hash-link" aria-label="2026-05-19的直接链接" title="2026-05-19的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">为工业设备添加<code>能量槽</code>，可以显示工业设备目前储存的能量</li>
+<li class="">Adding an <code>energy slot</code> to industrial equipment can display the energy currently stored in the equipment</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-18">2026-05-18<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-18" class="hash-link" aria-label="2026-05-18的直接链接" title="2026-05-18的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">将前述内容移植至<code>Forge</code>端</li>
+<li class="">Transplant the aforementioned content to the <code>Forge</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-15">2026-05-15<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-15" class="hash-link" aria-label="2026-05-15的直接链接" title="2026-05-15的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">新增流体<code>污水</code>，其性质与水类似，但生物在其中<code>会受到伤害</code></li>
+<li class="">The newly added fluid <code>Sewage</code> has properties similar to water, but Living Entity can be harmed in it</li>
+<li class=""><code>精炼炉</code>现在支持流体输入，支持<code>赤铜矿</code>加工（仅测试）</li>
+<li class="">The <code>Refining Unit</code> now supports fluid input, supports processing <code>cuprium ore</code> (Only Test)</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-14">2026-05-14<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-14" class="hash-link" aria-label="2026-05-14的直接链接" title="2026-05-14的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">重启开发，研究武陵工业计划部分</li>
+<li class="">Restarted development and researched the Wuling Industrial Plan section</li>
+<li class="">管道现在设计为<code>传送带</code>的变种，其放置逻辑和传输逻辑与传送带类似</li>
+<li class="">Pipelines are now designed as variants of <code>Belt</code>, with similar placement and transportation logic to conveyor belts</li>
+<li class="">在<code>水泵</code>中，现在拿着空桶点击GUI上显示流体的槽位时，可以直接从水泵中取出流体，一桶单位为<code>1B</code>（1000mB）</li>
+<li class="">In the <code> Fluid Pump</code>, now when you hold an empty bucket and click on the slot in the GUI that shows the fluid, you can directly take out the fluid from the pump, with one bucket unit being <code>1B</code> (1000mB)</li>
+<li class="">流体工业设备现在显示的流体量单位为<code>B</code></li>
+<li class="">The unit of fluid amount displayed in fluid industrial equipment is now <code>B</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-05-13">2026-05-13<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-05-13" class="hash-link" aria-label="2026-05-13的直接链接" title="2026-05-13的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">重绘了一部分贴图，但不是最终版本，仍需迭代</li>
+<li class="">Part of the texture has been redrawn, but it is not the final version and still needs to be iterated</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-04-21">2026-04-21<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-04-21" class="hash-link" aria-label="2026-04-21的直接链接" title="2026-04-21的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">优化各设备的放置逻辑，在空间不足时将提醒玩家</li>
+<li class="">Optimized the placement logic of each device, reminding players when there is insufficient space</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-04-19">2026-04-19<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-04-19" class="hash-link" aria-label="2026-04-19的直接链接" title="2026-04-19的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">全局仓储管理系统的GUI，仓库部分的GUI中，<code>左键</code>点击时可取出1个物品，<code>右键</code>点击取出该物品最大堆叠上限的一半，<code>shift + 左键</code>点击取出该物品的最大堆叠上限个物品；</li>
+<li class="">玩家部分的<code>物品栏</code>和<code>快捷栏</code>反之，向仓库系统存入物品</li>
+<li class="">The GUI of the Global Storage Manager. In the GUI of the storage section, when <code>left-clicking</code>, one item can be retrieved. <code>Right-clicking</code> retrieves half of the maximum stacking limit for that item. <code>Shift + left-clicking</code> retrieves the maximum stacking limit for that item</li>
+<li class="">The <code>player's inventory</code> and <code>hotbar</code> are reversed, and items are stored in the storage manager</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2026-04-18">2026-04-18<a href="https://beishanair.github.io/endfieldDoc/blog/v1.0.3#2026-04-18" class="hash-link" aria-label="2026-04-18的直接链接" title="2026-04-18的直接链接" translate="no">​</a></h3>
+<ul>
+<li class="">调整<code>工业爆炸物</code>的爆炸威力至<code>5</code>，那么在普通难度下，100%爆炸接触率时，最大的爆炸伤害为<code>71</code></li>
+<li class="">Adjusting the explosive power of <code>industrial explosives</code> to <code>5</code>, the maximum explosive damage at 100% explosive contact rate under normal difficulty is <code>71</code></li>
+</ul>]]></content>
+        <author>
+            <name>BeiShan_Besson</name>
+            <uri>https://github.com/BeiShanair</uri>
+        </author>
+        <category label="ChangeLog" term="ChangeLog"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.0.2 Changelog]]></title>
         <id>https://beishanair.github.io/endfieldDoc/blog/v1.0.2</id>
