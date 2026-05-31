@@ -33,13 +33,13 @@ Singleton mode, responsible for the entire world
   Theoretically, any item can be stored, and the maximum upper limit of the warehouse is the maximum value of the long type, default is 10000
 
 ## Tips
-- 点击GUI中的物品槽，可取出该物品到玩家的物品栏，`左键`获得1个，`右键`获得该物品最大堆叠上限数量的物品
+- 仓库部分的GUI中，`左键`点击时可取出1个物品，`右键`点击取出该物品最大堆叠上限的一半，`shift + 左键`点击取出该物品的最大堆叠上限个物品；
 
-  Clicking on the item slot in the GUI, the item can be taken out to the player's inventory, `left click` to get 1 item, `right click` to get the maximum stack limit of the item
+- In the Global Storage Manager's GUI, `left-click` can remove 1 item, `right-click` to remove half of the item's maximum stack limit, and `shift + left-click` to extract the item's maximum stack limit;
 
-- 不过还不能直接存入物品，可以通过`协议储存箱`存入物品，或通过指令
+- 玩家部分的`物品栏`和`快捷栏`反之，向仓库系统存入物品
 
-  However, you cannot directly store items, you can store items through the `Protocol Stash` or through the command
+- In the player's inventory and quick bar, the opposite is true, items can be stored into the warehouse
 
 ## GUI
 - 有一个与该系统绑定的`GUI`界面，默认绑定的按键是`G`
